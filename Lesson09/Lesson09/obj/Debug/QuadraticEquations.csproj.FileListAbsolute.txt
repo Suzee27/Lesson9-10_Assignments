@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2015\Projects\Lesson09\Lesson09\bin\Debug\Lesson09.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Lesson09\Lesson09\obj\Debug\Lesson09.exe
+c:\users\hp\documents\visual studio 2015\Projects\Lesson09\Lesson09\obj\Debug\Lesson09.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Lesson09\Lesson09\bin\Debug\Lesson09.exe
+c:\users\hp\documents\visual studio 2015\Projects\Lesson09\Lesson09\bin\Debug\Lesson09.pdb

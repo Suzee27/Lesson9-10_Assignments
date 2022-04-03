@@ -1,0 +1,6 @@
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\FactorialOfANumber\bin\Debug\FactorialOfANumber.exe.config
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\FactorialOfANumber\bin\Debug\FactorialOfANumber.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\FactorialOfANumber\bin\Debug\FactorialOfANumber.pdb
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\FactorialOfANumber\obj\Debug\FactorialOfANumber.csprojResolveAssemblyReference.cache
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\FactorialOfANumber\obj\Debug\FactorialOfANumber.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\FactorialOfANumber\obj\Debug\FactorialOfANumber.pdb

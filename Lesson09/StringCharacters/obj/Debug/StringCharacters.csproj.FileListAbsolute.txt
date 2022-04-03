@@ -1,0 +1,6 @@
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\StringCharacters\bin\Debug\StringCharacters.exe.config
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\StringCharacters\bin\Debug\StringCharacters.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\StringCharacters\bin\Debug\StringCharacters.pdb
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\StringCharacters\obj\Debug\StringCharacters.csprojResolveAssemblyReference.cache
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\StringCharacters\obj\Debug\StringCharacters.exe
+c:\Users\HP\documents\visual studio 2015\Projects\Lesson09\StringCharacters\obj\Debug\StringCharacters.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson10\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson10\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson10\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson10\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson10\RandomNumbers\obj\Debug\RandomNumbers.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson10\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache
